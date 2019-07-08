@@ -43,7 +43,7 @@ window.addEventListener("load", function () {
     "403": "Логин или пароль указаны не верно.Попробуйте еще раз.",
     "200": "Authorization success"
   }
-  console.log(statusOb["403"])
+  
 
 });
 
